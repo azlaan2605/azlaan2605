@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @azlaan2605
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning more about web designing and development
-- 💞️ I’m looking to collaborate on designing new web sites or working on any type of websites
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning more about data analysis and visualization
 - 📫 How to reach me ..you can send me a mail or contact me on the given no.8578999282
 
 <!---
