@@ -1,3 +1,5 @@
+![logo](https://github.com/azlaan2605/azlaan2605/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Md Azlaan Barkat</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
